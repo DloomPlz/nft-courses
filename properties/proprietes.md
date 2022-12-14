@@ -1,0 +1,7 @@
+# Les propriétés
+
+Les proprietes, ou métadonnées, d'un NFT font référence aux données associées au token qui fournissent des informations sur sa propriété et sa provenance. Il peut s'agir du nom du créateur, de la date de création, d'une description de l'objet et de tout autre détail pertinent tels que des attributs artistiques que le createur peut fournir pour lui donner de la rarete. Les métadonnées sont généralement stockées sur la blockchain, ce qui permet d'obtenir des informations transparentes et vérifiables sur le NFT. Cela peut aider à établir l'authenticité et la valeur de l'actif.
+
+## IPFS
+
+IPFS (InterPlanetary File System) est un système de stockage de fichiers décentralisé qui peut être utilisé pour stocker les métadonnées d'un NFT. Au lieu de stocker les données sur un serveur central, l'IPFS les distribue sur un réseau de nœuds, ce qui contribue à rendre le système plus sûr et plus résilient. Cela peut être utile pour les NFT, car cela permet de stocker les métadonnées de manière sûre et vérifiable, ce qui contribue à établir la provenance et l'authenticité de l'actif. IPFS n'est qu'une des nombreuses technologies qui peuvent être utilisées pour stocker les métadonnées des NFT. Parmi les autres options figurent les bases de données distribuées et les serveurs centralisés traditionnels.
