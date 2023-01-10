@@ -1,105 +1,105 @@
 {
-	"trait_type":"Body",
-	"attributes":[
-		{
-			"name":"Bounty Hunter",
-			"filename":"body/bounty_hunter.png",
-			"rarity":1
-		},
-		{
-			"name":"Cyborg A",
-			"filename":"body/cyborg_a.png",
-			"rarity":2
-		},
-		{
-			"name":"Cyborg B",
-			"filename":"body/cyborg_B.png",
-			"rarity":2
-		},
-		{
-			"name":"Cyborg C",
-			"filename":"body/cyborg_c.png",
-			"rarity":1
-		},
-		{
-			"name":"Delinquent A",
-			"filename":"body/delinquent_a.png",
-			"rarity":5
-		},
-		{
-			"name":"Delinquent B",
-			"filename":"body/delinquent_b.png",
-			"rarity":3
-		},
-		{
-			"name":"Fit T-shirt 1",
-			"filename":"body/fit_t-shirt_1.png",
-			"rarity":11
-		},
-		{
-			"name":"Fit T-shirt 2",
-			"filename":"body/fit_t-shirt_2.png",
-			"rarity":11
-		},
-		{
-			"name":"Fit T-shirt 3",
-			"filename":"body/fit_t-shirt_3.png",
-			"rarity":11
-		},
-		{
-			"name":"Fit T-shirt 4",
-			"filename":"body/fit_t-shirt_4.png",
-			"rarity":11
-		},
-		{
-			"name":"Hoodie",
-			"filename":"body/Hoodie.png",
-			"rarity":7
-		},
-		{
-			"name":"Jacket",
-			"filename":"body/jacket.png",
-			"rarity":5
-		},
-		{
-			"name":"Karate",
-			"filename":"body/karate.png",
-			"rarity":6
-		},
-		{
-			"name":"Punk A",
-			"filename":"body/punk_a.png",
-			"rarity":3
-		},
-		{
-			"name":"Punk B",
-			"filename":"body/punk_b.png",
-			"rarity":3
-		},
-		{
-			"name":"Shinobi",
-			"filename":"body/shinobi.png",
-			"rarity":3
-		},
-		{
-			"name":"Suit",
-			"filename":"body/suit.png",
-			"rarity":3
-		},
-		{
-			"name":"Sweater",
-			"filename":"body/sweater.png",
-			"rarity":6
-		},
-		{
-			"name":"Turtleneck",
-			"filename":"body/turtleneck.png",
-			"rarity":5
-		},
-		{
-			"name":"White Cell",
-			"filename":"body/white_cell.png",
-			"rarity":1
-		}
-	]
+    "trait_type": "Body",
+    "attributes": [
+        {
+            "name": "Bounty Hunter",
+            "filename": "Bounty Hunter.png",
+            "rarity": 5
+        },
+        {
+            "name": "Cyborg A",
+            "filename": "Cyborg A.png",
+            "rarity": 5
+        },
+        {
+            "name": "Cyborg B",
+            "filename": "Cyborg B.png",
+            "rarity": 5
+        },
+        {
+            "name": "Cyborg C",
+            "filename": "Cyborg C.png",
+            "rarity": 5
+        },
+        {
+            "name": "Delinquent A",
+            "filename": "Delinquent A.png",
+            "rarity": 5
+        },
+        {
+            "name": "Delinquent B",
+            "filename": "Delinquent B.png",
+            "rarity": 5
+        },
+        {
+            "name": "Fit T-Shirt 1",
+            "filename": "Fit T-Shirt 1.png",
+            "rarity": 5
+        },
+        {
+            "name": "Fit T-Shirt 2",
+            "filename": "Fit T-Shirt 2.png",
+            "rarity": 5
+        },
+        {
+            "name": "Fit T-Shirt 3",
+            "filename": "Fit T-Shirt 3.png",
+            "rarity": 5
+        },
+        {
+            "name": "Fit T-Shirt 4",
+            "filename": "Fit T-Shirt 4.png",
+            "rarity": 5
+        },
+        {
+            "name": "Hoodie",
+            "filename": "Hoodie.png",
+            "rarity": 5
+        },
+        {
+            "name": "Jacket",
+            "filename": "Jacket.png",
+            "rarity": 5
+        },
+        {
+            "name": "Karate",
+            "filename": "Karate.png",
+            "rarity": 5
+        },
+        {
+            "name": "Punk A",
+            "filename": "Punk A.png",
+            "rarity": 5
+        },
+        {
+            "name": "Punk B",
+            "filename": "Punk B.png",
+            "rarity": 5
+        },
+        {
+            "name": "Shinobi",
+            "filename": "Shinobi.png",
+            "rarity": 5
+        },
+        {
+            "name": "Suit",
+            "filename": "Suit.png",
+            "rarity": 5
+        },
+        {
+            "name": "Sweater",
+            "filename": "Sweater.png",
+            "rarity": 5
+        },
+        {
+            "name": "Turtleneck",
+            "filename": "Turtleneck.png",
+            "rarity": 5
+        },
+        {
+            "name": "White Cell",
+            "filename": "White Cell.png",
+            "rarity": 5
+        }
+    ]
 }

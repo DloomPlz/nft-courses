@@ -1,35 +1,35 @@
 {
-	"trait_type":"Skin",
-	"attributes":[
-		{
-			"name":"I",
-			"filename":"skin/i.png",
-			"rarity":16
-		},
-		{
-			"name":"II",
-			"filename":"skin/ii.png",
-			"rarity":16
-		},
-		{
-			"name":"III",
-			"filename":"skin/iii.png",
-			"rarity":17
-		},
-		{
-			"name":"IV",
-			"filename":"skin/iv.png",
-			"rarity":17
-		},
-		{
-			"name":"V",
-			"filename":"skin/v.png",
-			"rarity":17
-		},
-		{
-			"name":"VI",
-			"filename":"skin/vi.png",
-			"rarity":17
-		}
-	]
+    "trait_type": "Skin",
+    "attributes": [
+        {
+            "name": "I",
+            "filename": "I.png",
+            "rarity": 16
+        },
+        {
+            "name": "II",
+            "filename": "II.png",
+            "rarity": 16
+        },
+        {
+            "name": "III",
+            "filename": "III.png",
+            "rarity": 16
+        },
+        {
+            "name": "IV",
+            "filename": "IV.png",
+            "rarity": 17
+        },
+        {
+            "name": "V",
+            "filename": "V.png",
+            "rarity": 19
+        },
+        {
+            "name": "VI",
+            "filename": "VI.png",
+            "rarity": 16
+        }
+    ]
 }

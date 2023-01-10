@@ -1,50 +1,75 @@
 {
-	"trait_type":"Head",
-	"attributes":[
-		{
-			"name":"Boys Slick Back",
-			"filename":"head/boys_slick_back.png",
-			"rarity":40
-		},
-		{
-			"name":"High And Tight",
-			"filename":"head/high_n_tight_13.png",
-			"rarity":21
-		},
-		{
-			"name":"Shaggy",
-			"filename":"head/shaggy_6.png",
-			"rarity":5
-		},
-		{
-			"name":"Curly",
-			"filename":"head/curly.png",
-			"rarity":5
-		},
-		{
-			"name":"Sinister",
-			"filename":"head/sinister_16.png",
-			"rarity":2
-		},
-		{
-			"name":"Afro",
-			"filename":"head/afro_57.png",
-			"rarity":2
-		},
-		{
-			"name":"Bowl Cut",
-			"filename":"head/bowl_cut_17.png",
-			"rarity":2
-		},
-		{
-			"name":"Bun",
-			"filename":"head/bun.png",
-			"rarity":2
-		},
-		{
-			"name":"Headphone",
-			"filename":"head/headphone.png",
-			"rarity":21
-		}
-	]
+    "trait_type": "Head",
+    "attributes": [
+        {
+            "name": "Afro 57",
+            "filename": "Afro 57.png",
+            "rarity": 9
+        },
+        {
+            "name": "Bald",
+            "filename": "Bald.png",
+            "rarity": 7
+        },
+        {
+            "name": "Baseball Hat",
+            "filename": "Baseball Hat.png",
+            "rarity": 7
+        },
+        {
+            "name": "Bowl Cut 17",
+            "filename": "Bowl Cut 17.png",
+            "rarity": 7
+        },
+        {
+            "name": "Boys Slick Back",
+            "filename": "Boys Slick Back.png",
+            "rarity": 7
+        },
+        {
+            "name": "Brim Hat",
+            "filename": "Brim Hat.png",
+            "rarity": 7
+        },
+        {
+            "name": "Bun",
+            "filename": "Bun.png",
+            "rarity": 7
+        },
+        {
+            "name": "Cap A",
+            "filename": "Cap A.png",
+            "rarity": 7
+        },
+        {
+            "name": "Cap B",
+            "filename": "Cap B.png",
+            "rarity": 7
+        },
+        {
+            "name": "Curly",
+            "filename": "Curly.png",
+            "rarity": 7
+        },
+        {
+            "name": "Headphone",
+            "filename": "Headphone.png",
+            "rarity": 7
+        },
+        {
+            "name": "High N Tight 13",
+            "filename": "High N Tight 13.png",
+            "rarity": 7
+        },
+        {
+            "name": "Shaggy 6",
+            "filename": "Shaggy 6.png",
+            "rarity": 7
+        },
+        {
+            "name": "Sinister 16",
+            "filename": "Sinister 16.png",
+            "rarity": 7
+        }
+    ]
 }
