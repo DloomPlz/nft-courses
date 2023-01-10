@@ -1,0 +1,101 @@
+{
+	"trait_type":"Face",
+	"attributes":[
+		{
+			"name":"Face 1",
+			"filename":"face/face_1.png",
+			"rarity":8
+		},
+		{
+			"name":"Face 2",
+			"filename":"face/face_2.png",
+			"rarity":8
+		},
+		{
+			"name":"Face 3",
+			"filename":"face/face_3.png",
+			"rarity":8
+		},
+		{
+			"name":"Face 4",
+			"filename":"face/face_4.png",
+			"rarity":8
+		},
+		{
+			"name":"Face 5",
+			"filename":"face/face_5.png",
+			"rarity":8
+		},
+		{
+			"name":"Face 6",
+			"filename":"face/face_6.png",
+			"rarity":8
+		},
+		{
+			"name":"Cyborg A",
+			"filename":"face/face_cyborg_a.png",
+			"rarity":5
+		},
+		{
+			"name":"Cyborg B",
+			"filename":"face/face_cyborg_b.png",
+			"rarity":5
+		},
+		{
+			"name":"Kabuki",
+			"filename":"face/kabuki.png",
+			"rarity":1
+		},
+		{
+			"name":"Kishin",
+			"filename":"face/kishin.png",
+			"rarity":2
+		},
+		{
+			"name":"Kitsune Mask",
+			"filename":"face/kitsune.png",
+			"rarity":1
+		},
+		{
+			"name":"Officer",
+			"filename":"face/officer.png",
+			"rarity":1
+		},
+		{
+			"name":"Onryo",
+			"filename":"face/onryo.png",
+			"rarity":2
+		},
+		{
+			"name":"Regular Black Face Mask",
+			"filename":"face/regular_black_face_mask.png",
+			"rarity":24
+		},
+		{
+			"name":"Saru",
+			"filename":"face/saru.png",
+			"rarity":2
+		},
+		{
+			"name":"Tongue Out",
+			"filename":"face/tongue_out.png",
+			"rarity":5
+		},
+		{
+			"name":"Bent Cig",
+			"filename":"face/bent_cig.png",
+			"rarity":2
+		},
+		{
+			"name":"Blind",
+			"filename":"face/blind.png",
+			"rarity":1
+		},
+		{
+			"name":"Visionary",
+			"filename":"face/visionary.png",
+			"rarity":1
+		}
+		
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"trait_type":"Eyes",
+	"attributes":[
+		{
+			"name":"Demon Eyes",
+			"filename":"eyes/demon_eyes.png",
+			"rarity":1
+		},
+		{
+			"name":"Eyes 1",
+			"filename":"eyes/eyes_1.png",
+			"rarity":6
+		},
+		{
+			"name":"Eyes 2",
+			"filename":"eyes/eyes_2.png",
+			"rarity":6
+		},
+		{
+			"name":"Eyes 3",
+			"filename":"eyes/eyes_3.png",
+			"rarity":6
+		},
+		{
+			"name":"Eyes 4",
+			"filename":"eyes/eyes_4.png",
+			"rarity":6
+		},
+		{
+			"name":"Eyes 5",
+			"filename":"eyes/eyes_5.png",
+			"rarity":6
+		},
+		{
+			"name":"Eyes 6",
+			"filename":"eyes/eyes_6.png",
+			"rarity":6
+		},
+		{
+			"name":"Eyes 7",
+			"filename":"eyes/eyes_7.png",
+			"rarity":6
+		},
+		{
+			"name":"Eyes 8",
+			"filename":"eyes/eyes_8.png",
+			"rarity":6
+		},
+		{
+			"name":"Hi-tek Vision Glasses",
+			"filename":"eyes/hi-tek_vision_goggles.png",
+			"rarity":3
+		},
+		{
+			"name":"Mech",
+			"filename":"eyes/mech.png",
+			"rarity":3
+		},
+		{
+			"name":"Rose Glasses",
+			"filename":"eyes/rose_glass.png",
+			"rarity":13
+		},
+		{
+			"name":"Small Goggle",
+			"filename":"eyes/small_goggle.png",
+			"rarity":4
+		},
+		{
+			"name":"Sunglasses A",
+			"filename":"eyes/sunglasses_a.png",
+			"rarity":7
+		},
+		{
+			"name":"Sunglasses B",
+			"filename":"eyes/sunglasses_b.png",
+			"rarity":7
+		},
+		{
+			"name":"Sunglasses C",
+			"filename":"eyes/sunglasses_C.png",
+			"rarity":7
+		},
+		{
+			"name":"Sunglasses D",
+			"filename":"eyes/sunglasses_D.png",
+			"rarity":7
+		}
+	]
+}

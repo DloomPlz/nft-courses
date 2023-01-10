@@ -1,0 +1,105 @@
+{
+	"trait_type":"Body",
+	"attributes":[
+		{
+			"name":"Bounty Hunter",
+			"filename":"body/bounty_hunter.png",
+			"rarity":1
+		},
+		{
+			"name":"Cyborg A",
+			"filename":"body/cyborg_a.png",
+			"rarity":2
+		},
+		{
+			"name":"Cyborg B",
+			"filename":"body/cyborg_B.png",
+			"rarity":2
+		},
+		{
+			"name":"Cyborg C",
+			"filename":"body/cyborg_c.png",
+			"rarity":1
+		},
+		{
+			"name":"Delinquent A",
+			"filename":"body/delinquent_a.png",
+			"rarity":5
+		},
+		{
+			"name":"Delinquent B",
+			"filename":"body/delinquent_b.png",
+			"rarity":3
+		},
+		{
+			"name":"Fit T-shirt 1",
+			"filename":"body/fit_t-shirt_1.png",
+			"rarity":11
+		},
+		{
+			"name":"Fit T-shirt 2",
+			"filename":"body/fit_t-shirt_2.png",
+			"rarity":11
+		},
+		{
+			"name":"Fit T-shirt 3",
+			"filename":"body/fit_t-shirt_3.png",
+			"rarity":11
+		},
+		{
+			"name":"Fit T-shirt 4",
+			"filename":"body/fit_t-shirt_4.png",
+			"rarity":11
+		},
+		{
+			"name":"Hoodie",
+			"filename":"body/Hoodie.png",
+			"rarity":7
+		},
+		{
+			"name":"Jacket",
+			"filename":"body/jacket.png",
+			"rarity":5
+		},
+		{
+			"name":"Karate",
+			"filename":"body/karate.png",
+			"rarity":6
+		},
+		{
+			"name":"Punk A",
+			"filename":"body/punk_a.png",
+			"rarity":3
+		},
+		{
+			"name":"Punk B",
+			"filename":"body/punk_b.png",
+			"rarity":3
+		},
+		{
+			"name":"Shinobi",
+			"filename":"body/shinobi.png",
+			"rarity":3
+		},
+		{
+			"name":"Suit",
+			"filename":"body/suit.png",
+			"rarity":3
+		},
+		{
+			"name":"Sweater",
+			"filename":"body/sweater.png",
+			"rarity":6
+		},
+		{
+			"name":"Turtleneck",
+			"filename":"body/turtleneck.png",
+			"rarity":5
+		},
+		{
+			"name":"White Cell",
+			"filename":"body/white_cell.png",
+			"rarity":1
+		}
+	]
+}

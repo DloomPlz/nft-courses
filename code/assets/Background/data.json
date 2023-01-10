@@ -1,0 +1,45 @@
+{
+	"trait_type":"Background",
+	"attributes":[
+		{
+			"name":"Yellow",
+			"filename":"background/yellow.png",
+			"rarity":17
+		},
+		{
+			"name":"Onyx",
+			"filename":"background/onyx.png",
+			"rarity":17
+		},
+		{
+			"name":"Pink",
+			"filename":"background/pink.png",
+			"rarity":5
+		},
+		{
+			"name":"Light Blue",
+			"filename":"background/blue.png",
+			"rarity":16
+		},
+		{
+			"name":"Purple",
+			"filename":"background/purple.png",
+			"rarity":12
+		},
+		{
+			"name":"Beige",
+			"filename":"background/beige.png",
+			"rarity":12
+		},
+		{
+			"name":"Jasper",
+			"filename":"background/jasper.png",
+			"rarity":4
+		},
+		{
+			"name":"Light Grey",
+			"filename":"background/grey.png",
+			"rarity":17
+		}
+	]
+}
