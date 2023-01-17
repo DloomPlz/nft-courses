@@ -4,12 +4,12 @@
         {
             "name": "I",
             "filename": "I.png",
-            "rarity": 17
+            "rarity": 16
         },
         {
             "name": "II",
             "filename": "II.png",
-            "rarity": 17
+            "rarity": 16
         },
         {
             "name": "III",
@@ -19,17 +19,17 @@
         {
             "name": "IV",
             "filename": "IV.png",
-            "rarity": 16
+            "rarity": 18
         },
         {
             "name": "V",
             "filename": "V.png",
-            "rarity": 16
+            "rarity": 17
         },
         {
             "name": "VI",
             "filename": "VI.png",
-            "rarity": 18
+            "rarity": 17
         }
     ]
 }

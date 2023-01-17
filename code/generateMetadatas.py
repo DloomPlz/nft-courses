@@ -60,7 +60,8 @@ def main():
     random.shuffle(a_list)
     for i in range(50):
 
-        folders = os.listdir("assets")
+        folders = [name for name in os.listdir(
+            "assets") if os.path.isdir(os.path.join("assets", name))]
         # folders = ["Background", "Body", "Eyes", "Face", "Head", "Skin"]
 
         data = getData(folders)

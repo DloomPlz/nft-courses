@@ -9,7 +9,7 @@
         {
             "name": "Blind",
             "filename": "Blind.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Face 1",
@@ -19,7 +19,7 @@
         {
             "name": "Face 2",
             "filename": "Face 2.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Face 3",
@@ -49,12 +49,12 @@
         {
             "name": "Face Cyborg B",
             "filename": "Face Cyborg B.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Kabuki",
             "filename": "Kabuki.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Kishin",
@@ -69,7 +69,7 @@
         {
             "name": "Officer",
             "filename": "Officer.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Onryo",
@@ -94,7 +94,7 @@
         {
             "name": "Visionary",
             "filename": "Visionary.png",
-            "rarity": 5
+            "rarity": 6
         }
     ]
 }
