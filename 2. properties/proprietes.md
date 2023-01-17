@@ -14,20 +14,17 @@ Pensez à un NFT comme à un livre rare dans une bibliothèque. De la même mani
 
 Les métadonnées d'un NFT peuvent inclure des éléments tels que le nom et la description du NFT, l'artiste ou le créateur du NFT, la date de création du NFT et toute autre information pertinente. Ces métadonnées sont importantes car elles permettent d'identifier le NFT et de mettre en contexte sa valeur.
 
-Vous pouvez également expliquer que les métadonnées d'un NFT sont stockées sur une blockchain, une base de données décentralisée et sécurisée qui stocke les informations de manière à ce qu'il soit pratiquement impossible de les modifier ou de les supprimer. Cela permet de garantir l'authenticité et la propriété du NFT.
+Les métadonnées d'un NFT sont la plupart du temps stockées sur une blockchain, via une base de données décentralisée et sécurisée qui stocke les informations de manière à ce qu'il soit impossible de les modifier ou de les supprimer. Cela permet de garantir l'authenticité et la propriété du NFT.
 
 Dans l'ensemble, les métadonnées d'un NFT sont comme la couverture intérieure d'un livre rare : elles fournissent des informations importantes sur le NFT et permettent d'établir sa valeur et son authenticité.
 
-Les métadonnées sont généralement stockées sur la blockchain, ce qui permet d'obtenir des informations transparentes et vérifiables sur le NFT. Cela peut aider à établir l'authenticité et la valeur de l'actif. IPFS est le systeme de stockage le plus utilise pour les NFTs pour le moment.
-
 ## IPFS
 
-IPFS (InterPlanetary File System) est un système de stockage de fichiers décentralisé qui peut être utilisé pour stocker les métadonnées d'un NFT. Au lieu de stocker les données sur un serveur central, l'IPFS les distribue sur un réseau de nœuds, ce qui contribue à rendre le système plus sûr et plus résilient. Cela peut être utile pour les NFT, car cela permet de stocker les métadonnées de manière sûre et vérifiable, ce qui contribue à établir la provenance et l'authenticité de l'actif. IPFS n'est qu'une des nombreuses technologies qui peuvent être utilisées pour stocker les métadonnées des NFT. Parmi les autres options figurent les bases de données distribuées et les serveurs centralisés traditionnels.
-
+IPFS (InterPlanetary File System) est un système de stockage de fichiers décentralisé qui peut être utilisé pour stocker les métadonnées d'un NFT. Au lieu de stocker les données sur un serveur central, l'IPFS les distribue sur un réseau de nœuds, ce qui contribue à rendre le système plus sûr et plus résilient. Cela peut être utile pour les NFT, car cela permet de stocker les métadonnées de manière sûre et vérifiable, ce qui contribue à établir la provenance et l'authenticité de l'actif. IPFS n'est qu'une des nombreuses technologies qui peuvent être utilisées pour stocker les métadonnées des NFT. Parmi les autres options figurent les bases de données distribuées ou des serveurs centralisés traditionnels.
 
 ## Forme des metadonnees
 
-Les metadonnes ou proprietes sont sous le format JSON.
+Les metadonnes sont sous le format JSON.
 JSON (JavaScript Object Notation) est un format de fichier utilisé pour stocker et transmettre des données. Il est basé sur un sous-ensemble du langage de programmation JavaScript et est facile à lire et à écrire pour les humains. JSON est couramment utilisé pour transmettre des données dans des applications web (par exemple, pour envoyer des données d'un serveur à un client afin qu'elles soient affichées sur une page web), et il est également utilisé pour stocker des données dans des bases de données.
 
 Voici une liste des champs courants que vous pouvez trouver dans les métadonnées d'un NFT, ainsi qu'une brève explication de chacun :
@@ -44,33 +41,6 @@ Voici une liste des champs courants que vous pouvez trouver dans les métadonné
 
 Voici un exemple des attributs du token #1 d'une collection NFTs tres connu des "Cool Cats", que vous pouvez trouver sous ce lien :
 
-```
-{
-  "attributes": [
-    {
-      "trait_type": "body",
-      "value": "blue cat skin"
-    },
-    {
-      "trait_type": "hats",
-      "value": "hat black"
-    },
-    {
-      "trait_type": "shirt",
-      "value": "winter red"
-    },
-    {
-      "trait_type": "face",
-      "value": "sunglasses blue"
-    },
-    {
-      "trait_type": "tier",
-      "value": "wild_1"
-    }
-  ]
-}
-```
-
 Comme on peut le voir, un Cool Cats est compose de 5 layers : body - hats - shirt - face - tier.
 Chaque layers possede une valeur, qui a surement ete tire via un algorithme de creation de metadatas, et un systeme de rarete.
-On va voir tout ca dans la prochaine video ;).
+On va voir comment tout ca a ete fait dans la prochaine video ;).
