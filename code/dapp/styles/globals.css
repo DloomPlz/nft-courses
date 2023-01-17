@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: 'Roboto';
+  font-style: normal;
+  color: #fff;
+  background-color: #6d53ff;
+}
+
+.btn-counter {
+  border: 3px solid #000;
+  min-width: 80px;
+  height: 42px;
+  background-color: #4aecfb;
+  border-radius: 7px;
+  color: #fff;
+  font-size: 32px;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-decoration: none;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+.counter-value {
+  border: 3px solid #000;
+  background-color: #fff;
+  height: 42px;
+  border-radius: 7px;
+  margin: 0px 8px;
+  text-align: center;
+  color: #000;
+  font-size: 19px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.btn-mint {
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  border: 3px solid #000;
+  background-color: #4d8ffe;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 10px 20px;
+  border-radius: 7px;
+  margin-top: 16px;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+.shadowy {
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.7);
+}
