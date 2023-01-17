@@ -1,0 +1,35 @@
+{
+    "trait_type": "Skin",
+    "attributes": [
+        {
+            "name": "I",
+            "filename": "I.png",
+            "rarity": 16
+        },
+        {
+            "name": "II",
+            "filename": "II.png",
+            "rarity": 16
+        },
+        {
+            "name": "III",
+            "filename": "III.png",
+            "rarity": 16
+        },
+        {
+            "name": "IV",
+            "filename": "IV.png",
+            "rarity": 18
+        },
+        {
+            "name": "V",
+            "filename": "V.png",
+            "rarity": 17
+        },
+        {
+            "name": "VI",
+            "filename": "VI.png",
+            "rarity": 17
+        }
+    ]
+}

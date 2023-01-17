@@ -1,0 +1,100 @@
+{
+    "trait_type": "Face",
+    "attributes": [
+        {
+            "name": "Bent Cig",
+            "filename": "Bent Cig.png",
+            "rarity": 5
+        },
+        {
+            "name": "Blind",
+            "filename": "Blind.png",
+            "rarity": 6
+        },
+        {
+            "name": "Face 1",
+            "filename": "Face 1.png",
+            "rarity": 5
+        },
+        {
+            "name": "Face 2",
+            "filename": "Face 2.png",
+            "rarity": 5
+        },
+        {
+            "name": "Face 3",
+            "filename": "Face 3.png",
+            "rarity": 5
+        },
+        {
+            "name": "Face 4",
+            "filename": "Face 4.png",
+            "rarity": 6
+        },
+        {
+            "name": "Face 5",
+            "filename": "Face 5.png",
+            "rarity": 5
+        },
+        {
+            "name": "Face 6",
+            "filename": "Face 6.png",
+            "rarity": 5
+        },
+        {
+            "name": "Face Cyborg A",
+            "filename": "Face Cyborg A.png",
+            "rarity": 5
+        },
+        {
+            "name": "Face Cyborg B",
+            "filename": "Face Cyborg B.png",
+            "rarity": 5
+        },
+        {
+            "name": "Kabuki",
+            "filename": "Kabuki.png",
+            "rarity": 6
+        },
+        {
+            "name": "Kishin",
+            "filename": "Kishin.png",
+            "rarity": 5
+        },
+        {
+            "name": "Kitsune",
+            "filename": "Kitsune.png",
+            "rarity": 5
+        },
+        {
+            "name": "Officer",
+            "filename": "Officer.png",
+            "rarity": 5
+        },
+        {
+            "name": "Onryo",
+            "filename": "Onryo.png",
+            "rarity": 5
+        },
+        {
+            "name": "Regular Black Face Mask",
+            "filename": "Regular Black Face Mask.png",
+            "rarity": 5
+        },
+        {
+            "name": "Saru",
+            "filename": "Saru.png",
+            "rarity": 6
+        },
+        {
+            "name": "Tongue Out",
+            "filename": "Tongue Out.png",
+            "rarity": 5
+        },
+        {
+            "name": "Visionary",
+            "filename": "Visionary.png",
+            "rarity": 6
+        }
+    ]
+}

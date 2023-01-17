@@ -1,0 +1,95 @@
+{
+    "trait_type": "Eyes",
+    "attributes": [
+        {
+            "name": "Bare",
+            "filename": "Bare.png",
+            "rarity": 5
+        },
+        {
+            "name": "Demon Eyes",
+            "filename": "Demon Eyes.png",
+            "rarity": 5
+        },
+        {
+            "name": "Eyes 1",
+            "filename": "Eyes 1.png",
+            "rarity": 6
+        },
+        {
+            "name": "Eyes 2",
+            "filename": "Eyes 2.png",
+            "rarity": 6
+        },
+        {
+            "name": "Eyes 3",
+            "filename": "Eyes 3.png",
+            "rarity": 5
+        },
+        {
+            "name": "Eyes 4",
+            "filename": "Eyes 4.png",
+            "rarity": 6
+        },
+        {
+            "name": "Eyes 5",
+            "filename": "Eyes 5.png",
+            "rarity": 5
+        },
+        {
+            "name": "Eyes 6",
+            "filename": "Eyes 6.png",
+            "rarity": 5
+        },
+        {
+            "name": "Eyes 7",
+            "filename": "Eyes 7.png",
+            "rarity": 6
+        },
+        {
+            "name": "Eyes 8",
+            "filename": "Eyes 8.png",
+            "rarity": 5
+        },
+        {
+            "name": "Hi Tek Vision Goggles",
+            "filename": "Hi Tek Vision Goggles.png",
+            "rarity": 6
+        },
+        {
+            "name": "Mech",
+            "filename": "Mech.png",
+            "rarity": 5
+        },
+        {
+            "name": "Rose Glass",
+            "filename": "Rose Glass.png",
+            "rarity": 7
+        },
+        {
+            "name": "Small Goggle",
+            "filename": "Small Goggle.png",
+            "rarity": 5
+        },
+        {
+            "name": "Sunglasses A",
+            "filename": "Sunglasses A.png",
+            "rarity": 5
+        },
+        {
+            "name": "Sunglasses B",
+            "filename": "Sunglasses B.png",
+            "rarity": 5
+        },
+        {
+            "name": "Sunglasses C",
+            "filename": "Sunglasses C.png",
+            "rarity": 6
+        },
+        {
+            "name": "Sunglasses D",
+            "filename": "Sunglasses D.png",
+            "rarity": 7
+        }
+    ]
+}

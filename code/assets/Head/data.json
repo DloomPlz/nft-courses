@@ -1,0 +1,75 @@
+{
+    "trait_type": "Head",
+    "attributes": [
+        {
+            "name": "Afro 57",
+            "filename": "Afro 57.png",
+            "rarity": 7
+        },
+        {
+            "name": "Bald",
+            "filename": "Bald.png",
+            "rarity": 7
+        },
+        {
+            "name": "Baseball Hat",
+            "filename": "Baseball Hat.png",
+            "rarity": 8
+        },
+        {
+            "name": "Bowl Cut 17",
+            "filename": "Bowl Cut 17.png",
+            "rarity": 7
+        },
+        {
+            "name": "Boys Slick Back",
+            "filename": "Boys Slick Back.png",
+            "rarity": 7
+        },
+        {
+            "name": "Brim Hat",
+            "filename": "Brim Hat.png",
+            "rarity": 7
+        },
+        {
+            "name": "Bun",
+            "filename": "Bun.png",
+            "rarity": 7
+        },
+        {
+            "name": "Cap A",
+            "filename": "Cap A.png",
+            "rarity": 7
+        },
+        {
+            "name": "Cap B",
+            "filename": "Cap B.png",
+            "rarity": 8
+        },
+        {
+            "name": "Curly",
+            "filename": "Curly.png",
+            "rarity": 7
+        },
+        {
+            "name": "Headphone",
+            "filename": "Headphone.png",
+            "rarity": 7
+        },
+        {
+            "name": "High N Tight 13",
+            "filename": "High N Tight 13.png",
+            "rarity": 7
+        },
+        {
+            "name": "Shaggy 6",
+            "filename": "Shaggy 6.png",
+            "rarity": 7
+        },
+        {
+            "name": "Sinister 16",
+            "filename": "Sinister 16.png",
+            "rarity": 7
+        }
+    ]
+}
