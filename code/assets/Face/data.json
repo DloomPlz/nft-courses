@@ -14,7 +14,7 @@
         {
             "name": "Face 1",
             "filename": "Face 1.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Face 2",
@@ -24,7 +24,7 @@
         {
             "name": "Face 3",
             "filename": "Face 3.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Face 4",
@@ -39,17 +39,17 @@
         {
             "name": "Face 6",
             "filename": "Face 6.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Face Cyborg A",
             "filename": "Face Cyborg A.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Face Cyborg B",
             "filename": "Face Cyborg B.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Kabuki",
@@ -64,22 +64,22 @@
         {
             "name": "Kitsune",
             "filename": "Kitsune.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Officer",
             "filename": "Officer.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Onryo",
             "filename": "Onryo.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Regular Black Face Mask",
             "filename": "Regular Black Face Mask.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Saru",
@@ -89,7 +89,7 @@
         {
             "name": "Tongue Out",
             "filename": "Tongue Out.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Visionary",

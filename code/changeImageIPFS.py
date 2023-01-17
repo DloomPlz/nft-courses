@@ -3,7 +3,7 @@ import json
 
 metadatasFolder = './metadatas'
 # TO CHANGE DEPENDING ON NFT UP IPFS LINK
-ipfsLink = ""
+ipfsLink = "ipfs://bafybeidvsufkcszpvhmebbwuepjyll67y55g7gyicvq2h5rj3de64v6hiu"
 newFolder = './metadatas'
 
 # For each file in metadatas folder

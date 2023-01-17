@@ -4,22 +4,22 @@
         {
             "name": "Beige",
             "filename": "Beige.png",
-            "rarity": 13
+            "rarity": 12
         },
         {
             "name": "Blue",
             "filename": "Blue.png",
-            "rarity": 12
+            "rarity": 13
         },
         {
             "name": "Grey",
             "filename": "Grey.png",
-            "rarity": 13
+            "rarity": 12
         },
         {
             "name": "Jasper",
             "filename": "Jasper.png",
-            "rarity": 12
+            "rarity": 13
         },
         {
             "name": "Onyx",
@@ -29,7 +29,7 @@
         {
             "name": "Pink",
             "filename": "Pink.png",
-            "rarity": 13
+            "rarity": 12
         },
         {
             "name": "Purple",
@@ -39,7 +39,7 @@
         {
             "name": "Yellow",
             "filename": "Yellow.png",
-            "rarity": 12
+            "rarity": 13
         }
     ]
 }

@@ -9,7 +9,7 @@
         {
             "name": "Demon Eyes",
             "filename": "Demon Eyes.png",
-            "rarity": 7
+            "rarity": 5
         },
         {
             "name": "Eyes 1",
@@ -24,7 +24,7 @@
         {
             "name": "Eyes 3",
             "filename": "Eyes 3.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Eyes 4",
@@ -44,12 +44,12 @@
         {
             "name": "Eyes 7",
             "filename": "Eyes 7.png",
-            "rarity": 5
+            "rarity": 9
         },
         {
             "name": "Eyes 8",
             "filename": "Eyes 8.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Hi Tek Vision Goggles",
@@ -74,22 +74,22 @@
         {
             "name": "Sunglasses A",
             "filename": "Sunglasses A.png",
-            "rarity": 7
+            "rarity": 6
         },
         {
             "name": "Sunglasses B",
             "filename": "Sunglasses B.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Sunglasses C",
             "filename": "Sunglasses C.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Sunglasses D",
             "filename": "Sunglasses D.png",
-            "rarity": 6
+            "rarity": 5
         }
     ]
 }
