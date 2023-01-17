@@ -4,22 +4,22 @@
         {
             "name": "I",
             "filename": "I.png",
-            "rarity": 16
-        },
-        {
-            "name": "II",
-            "filename": "II.png",
-            "rarity": 16
-        },
-        {
-            "name": "III",
-            "filename": "III.png",
-            "rarity": 16
-        },
-        {
-            "name": "IV",
-            "filename": "IV.png",
             "rarity": 18
+        },
+        {
+            "name": "Ii",
+            "filename": "Ii.png",
+            "rarity": 17
+        },
+        {
+            "name": "Iii",
+            "filename": "Iii.png",
+            "rarity": 16
+        },
+        {
+            "name": "Iv",
+            "filename": "Iv.png",
+            "rarity": 16
         },
         {
             "name": "V",
@@ -27,9 +27,9 @@
             "rarity": 17
         },
         {
-            "name": "VI",
-            "filename": "VI.png",
-            "rarity": 17
+            "name": "Vi",
+            "filename": "Vi.png",
+            "rarity": 16
         }
     ]
 }

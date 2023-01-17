@@ -4,7 +4,7 @@
         {
             "name": "Beige",
             "filename": "Beige.png",
-            "rarity": 14
+            "rarity": 13
         },
         {
             "name": "Blue",
@@ -14,7 +14,7 @@
         {
             "name": "Grey",
             "filename": "Grey.png",
-            "rarity": 12
+            "rarity": 13
         },
         {
             "name": "Jasper",
@@ -29,7 +29,7 @@
         {
             "name": "Pink",
             "filename": "Pink.png",
-            "rarity": 12
+            "rarity": 13
         },
         {
             "name": "Purple",
@@ -39,7 +39,7 @@
         {
             "name": "Yellow",
             "filename": "Yellow.png",
-            "rarity": 13
+            "rarity": 12
         }
     ]
 }

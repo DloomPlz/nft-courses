@@ -4,17 +4,17 @@
         {
             "name": "Bare",
             "filename": "Bare.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Demon Eyes",
             "filename": "Demon Eyes.png",
-            "rarity": 5
+            "rarity": 7
         },
         {
             "name": "Eyes 1",
             "filename": "Eyes 1.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Eyes 2",
@@ -29,12 +29,12 @@
         {
             "name": "Eyes 4",
             "filename": "Eyes 4.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Eyes 5",
             "filename": "Eyes 5.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Eyes 6",
@@ -44,17 +44,17 @@
         {
             "name": "Eyes 7",
             "filename": "Eyes 7.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Eyes 8",
             "filename": "Eyes 8.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Hi Tek Vision Goggles",
             "filename": "Hi Tek Vision Goggles.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Mech",
@@ -64,7 +64,7 @@
         {
             "name": "Rose Glass",
             "filename": "Rose Glass.png",
-            "rarity": 7
+            "rarity": 5
         },
         {
             "name": "Small Goggle",
@@ -74,7 +74,7 @@
         {
             "name": "Sunglasses A",
             "filename": "Sunglasses A.png",
-            "rarity": 5
+            "rarity": 7
         },
         {
             "name": "Sunglasses B",
@@ -89,7 +89,7 @@
         {
             "name": "Sunglasses D",
             "filename": "Sunglasses D.png",
-            "rarity": 7
+            "rarity": 6
         }
     ]
 }

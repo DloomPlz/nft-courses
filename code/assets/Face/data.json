@@ -9,12 +9,12 @@
         {
             "name": "Blind",
             "filename": "Blind.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Face 1",
             "filename": "Face 1.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Face 2",
@@ -24,12 +24,12 @@
         {
             "name": "Face 3",
             "filename": "Face 3.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Face 4",
             "filename": "Face 4.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Face 5",
@@ -39,7 +39,7 @@
         {
             "name": "Face 6",
             "filename": "Face 6.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Face Cyborg A",
@@ -49,12 +49,12 @@
         {
             "name": "Face Cyborg B",
             "filename": "Face Cyborg B.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Kabuki",
             "filename": "Kabuki.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Kishin",
@@ -64,7 +64,7 @@
         {
             "name": "Kitsune",
             "filename": "Kitsune.png",
-            "rarity": 5
+            "rarity": 6
         },
         {
             "name": "Officer",
@@ -84,7 +84,7 @@
         {
             "name": "Saru",
             "filename": "Saru.png",
-            "rarity": 6
+            "rarity": 5
         },
         {
             "name": "Tongue Out",
@@ -94,7 +94,7 @@
         {
             "name": "Visionary",
             "filename": "Visionary.png",
-            "rarity": 6
+            "rarity": 5
         }
     ]
 }

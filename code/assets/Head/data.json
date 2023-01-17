@@ -14,7 +14,7 @@
         {
             "name": "Baseball Hat",
             "filename": "Baseball Hat.png",
-            "rarity": 8
+            "rarity": 7
         },
         {
             "name": "Bowl Cut 17",
@@ -39,12 +39,12 @@
         {
             "name": "Cap A",
             "filename": "Cap A.png",
-            "rarity": 7
+            "rarity": 8
         },
         {
             "name": "Cap B",
             "filename": "Cap B.png",
-            "rarity": 8
+            "rarity": 7
         },
         {
             "name": "Curly",
@@ -64,7 +64,7 @@
         {
             "name": "Shaggy 6",
             "filename": "Shaggy 6.png",
-            "rarity": 7
+            "rarity": 8
         },
         {
             "name": "Sinister 16",
