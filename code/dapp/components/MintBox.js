@@ -5,12 +5,12 @@ import { NFTContract } from '../contract/contract'
 import { useToast } from '../hooks/use-toast'
 
 // To change
-const contractAddress = `0x050f507690622aE045E3bb6A06e3D351f5A4d08D`
+const contractAddress = `${process.env.NEXT_PUBLIC_CONTRACT}`
 
 // https://data-seed-prebsc-1-s3.binance.org:8545 for bsc testnet
 // https://rpc.ankr.com/eth for ethereum
-const node = `https://data-seed-prebsc-1-s3.binance.org:8545`
-const totalSupply = '666'
+const node = `${process.env.NEXT_PUBLIC_NODE}`
+const totalSupply = `${process.env.NEXT_PUBLIC_SUPPLY}`
 
 // Connect to node
 const provider = new ethers.providers.JsonRpcProvider(node)
@@ -31,11 +31,6 @@ export default function MintBox({
 
   const [isMinting, setIsMinting] = useState(false)
 
-  const [maxMintAmountPerWhitelist, setMaxMintAmountPerWhitelist] = useState(1)
-  const [maxAmountPerTxnPublic, setMaxAmountPerTxnPublic] = useState(10)
-
-  const [isCheckingForSignature, setIsCheckingForSignature] = useState(true)
-
   const [mintNumber, setMintNumber] = useState(1)
 
   const [publicPrice, setPublicPrice] = useState(`0.005`)
@@ -45,12 +40,7 @@ export default function MintBox({
   const [mintDisabled, setMintDisabled] = useState(false)
   const [mintErrorMessage, setMintErrorMessage] = useState('')
   const [informationMessage, setInformationMessage] = useState('')
-  const [maxMintAmountForUser, setMaxMintAmountForUser] = useState(1)
-
-  const [isWhitelistMint, setIsWhitelistMint] = useState(false)
-
-  const [initVectorString, setInitVector] = useState('')
-  const [securityKeyString, setSecurityString] = useState('')
+  const [maxMintAmountForUser, setMaxMintAmountForUser] = useState(10)
 
   useEffect(() => {
     fetchContractData().catch(console.error)
@@ -90,33 +80,12 @@ export default function MintBox({
       const nbMintUser = (await contract.getNumberWLMinted(web3addr)).toNumber()
 
       if (currentStep == 1) {
-        if (whitelists.whitelist.includes(web3addr)) {
-          if (nbMintUser >= maxMintAmountPerWhitelist) {
-            // Over max wallet wl
-            setMaxMintAmountForUser(maxAmountPerTxnPublic)
-            setMintDisabled(false)
-            setMintErrorMessage('')
-            setInformationMessage(
-              `Free minted ! Mint in public :) (${publicPrice} ETH)`
-            )
-            setIsWhitelistMint(false)
-            return
-          }
-        } else {
-          // Not whitelisted
-          setMaxMintAmountForUser(maxAmountPerTxnPublic)
-          setMintDisabled(false)
-          setMintErrorMessage('')
-          setInformationMessage(`Public Mint :) ${publicPrice} ETH per NFT`)
-          setIsWhitelistMint(false)
-          return
-        }
-        // Set max amount for the input (maxWallet - numberMinted)
-        setMaxMintAmountForUser(maxMintAmountPerWhitelist - nbMintUser)
+        setMaxMintAmountForUser(maxAmountPerTxnPublic)
         setMintDisabled(false)
         setMintErrorMessage('')
-        setInformationMessage(`You are whitelisted, 1 Free Mint !`)
-        setIsWhitelistMint(true)
+        setInformationMessage(`Public Mint :) ${publicPrice} ETH per NFT`)
+        setIsWhitelistMint(false)
+        return
       } else if (currentStep == 0) {
         if (whitelists.whitelist.includes(web3addr)) {
           setInformationMessage(`You are whitelisted :)`)

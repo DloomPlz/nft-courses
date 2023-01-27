@@ -1746,7 +1746,7 @@ contract Neon is Ownable, ERC721A {
 
     uint private teamLength;
 
-    constructor(string memory _baseURI) ERC721A("Neon", "NEON"){
+    constructor(string memory _baseURI) ERC721A("Test", "TEST"){
     }
 
     function mintForOpensea() external onlyOwner{
