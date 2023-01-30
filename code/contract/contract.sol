@@ -1725,7 +1725,7 @@ contract ERC721A is IERC721A {
     }
 }
 
-contract Neon is Ownable, ERC721A {
+contract ContractCollection is Ownable, ERC721A {
 
     using Strings for uint;
 
@@ -1740,7 +1740,7 @@ contract Neon is Ownable, ERC721A {
 
     Step public sellingStep;
 
-    uint private constant MAX_PUBLIC = 666;
+    uint public constant MAX_PUBLIC = 666;
 
     uint public publicSalePrice = 0.001 ether;
 
@@ -1750,7 +1750,7 @@ contract Neon is Ownable, ERC721A {
     }
 
     function mintForOpensea() external onlyOwner{
-        if(totalSupply() != 0) revert("Only five mint for deployer");
+        if(totalSupply() != 0) revert("Only one mint for deployer");
         _mint(msg.sender, 1);
     }
 
