@@ -10,7 +10,6 @@ const contractAddress = `${process.env.NEXT_PUBLIC_CONTRACT}`
 // https://data-seed-prebsc-1-s3.binance.org:8545 for bsc testnet
 // https://rpc.ankr.com/eth for ethereum
 const node = `${process.env.NEXT_PUBLIC_NODE}`
-const totalSupply = `${process.env.NEXT_PUBLIC_SUPPLY}`
 
 // Connect to node
 const provider = new ethers.providers.JsonRpcProvider(node)
@@ -42,10 +41,15 @@ export default function MintBox({
   const [informationMessage, setInformationMessage] = useState('')
   const [maxMintAmountForUser, setMaxMintAmountForUser] = useState(10)
 
+  const [maxSupply, setMaxSupply] = useState(0)
+
   useEffect(() => {
     fetchContractData().catch(console.error)
 
     setInterval(async () => {
+      const MAX_PUBLIC = await contract.MAX_PUBLIC()
+      const formattedSupply = MAX_PUBLIC.toLocaleString('en-US')
+      setMaxSupply(formattedSupply)
       const amount = (await contract.totalSupply()).toNumber()
       const formattedAmountMinted = amount.toLocaleString('en-US')
       setAmountMinted(formattedAmountMinted)
@@ -55,6 +59,9 @@ export default function MintBox({
   }, [])
 
   const fetchContractData = async () => {
+    const MAX_PUBLIC = await contract.MAX_PUBLIC()
+    const formattedSupply = MAX_PUBLIC.toLocaleString('en-US')
+    setMaxSupply(formattedSupply)
     const step = await contract.sellingStep()
     const price = await contract.publicSalePrice()
     setCurrentStep(step)
@@ -167,7 +174,7 @@ export default function MintBox({
   return (
     <div className="max-w-md mr-auto ml-auto text-center mb-8">
       <h2 className="text-4xl mb-6 shadowy">
-        {amountMinted} /{totalSupply}
+        {amountMinted} / {maxSupply}
       </h2>
       <div className="flex items-center justify-items-center">
         <button
